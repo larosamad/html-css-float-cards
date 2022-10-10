@@ -9,3 +9,20 @@
     clear: both;
     display: table;
 }
+
+
+body{
+    width: 80%;
+    margin: auto;
+}
+
+header{
+text-align: center;
+}
+
+h1{
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px grey;
+    padding: 20px;
+}
