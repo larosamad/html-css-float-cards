@@ -18,6 +18,7 @@ body{
 
 header{
 text-align: center;
+padding-bottom: 30px;
 }
 
 h1{
@@ -25,4 +26,32 @@ h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-shadow: 2px 2px grey;
     padding: 20px;
+}
+
+h2{
+    padding-top: 10px;
+}
+.column{
+    background-color: black;
+    color: white;
+    float: left;
+    width: calc(100%/3);
+    display: inline;
+    border: 20px solid white;
+    line-height: 30px;
+}
+
+.text{
+    margin-left: 30px;
+}
+
+h4{
+    color: lightblue;
+}
+.column img{
+    float: left;
+    width: 30%;
+    margin-right: 30px;
+
+
 }
